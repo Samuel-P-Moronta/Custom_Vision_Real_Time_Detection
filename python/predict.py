@@ -10,8 +10,8 @@ from PIL import Image
 from object_detection import ObjectDetection
 import cv2
 
-MODEL_FILENAME = 'model.tflite'
-LABELS_FILENAME = 'labels.txt'
+MODEL_FILENAME = 'path model'
+LABELS_FILENAME = 'path labels'
 
 
 class TFLiteObjectDetection(ObjectDetection):
