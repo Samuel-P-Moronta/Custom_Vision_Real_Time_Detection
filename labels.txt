@@ -1,0 +1,4 @@
+ripe_papaya
+ripe_pineapple
+unripe_papaya
+unripe_pineapple
